@@ -22,7 +22,7 @@ true
 true
 3 == 3;
 
-//operadore de comparación - extrictamente igual
+//operador de comparación - extrictamente igual
 true
 3 === "3";
 false
