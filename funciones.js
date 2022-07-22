@@ -1,12 +1,13 @@
 // hay dos tipos de funciones
 // declarativas
-
+// donde se declara la funció ncon un nombre y 
+// todo su cuerpo
 function miFunction(){
     return 3;
 }
 miFunction();
 
-// expresivas (de expresión)
+// y las expresivas (de expresión)
 //también llamadas funciones anónimas
 // porque no tienen definido un nombre y
 // se almacena en otro objeto
